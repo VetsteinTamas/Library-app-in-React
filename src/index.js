@@ -12,10 +12,12 @@ import {
   faTags,
   faStar,
   faStarHalfAlt,
+  faArrowLeft,
 } from "@fortawesome/free-solid-svg-icons";
 
 library.add(
   faBars,
+  faArrowLeft,
   faStarHalfAlt,
   faStar,
   faShoppingCart,
