@@ -12,7 +12,7 @@ const Book = ({ book }) => {
     image.onload = () => {
       setTimeout(() => {
         setImg(image);
-      }, 500);
+      }, 600);
     };
   });
 
