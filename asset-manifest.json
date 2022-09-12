@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Library-app-in-React/static/css/main.326b550c.css",
+    "main.js": "/Library-app-in-React/static/js/main.631c778e.js",
+    "static/media/Undraw_Books.svg": "/Library-app-in-React/static/media/Undraw_Books.64f45ed25262241aba12eff6dcb25d88.svg",
+    "static/media/Library.svg": "/Library-app-in-React/static/media/Library.70d0a6a90c21c295982ded03f9ea8615.svg",
+    "static/media/empty_cart.svg": "/Library-app-in-React/static/media/empty_cart.378125a834ec5473a1cffd7c59e06527.svg",
+    "index.html": "/Library-app-in-React/index.html",
+    "static/media/wave.svg": "/Library-app-in-React/static/media/wave.42edd5970e3619090a0f.svg",
+    "main.326b550c.css.map": "/Library-app-in-React/static/css/main.326b550c.css.map",
+    "main.631c778e.js.map": "/Library-app-in-React/static/js/main.631c778e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.326b550c.css",
+    "static/js/main.631c778e.js"
+  ]
+}
